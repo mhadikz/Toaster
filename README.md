@@ -20,7 +20,7 @@ Toaster has four styles for different statuses that include information, success
   <a href="https://github.com/mhadikz/Toaster">
     <img src="https://user-images.githubusercontent.com/22215824/88429672-46bde180-ce0c-11ea-83a5-db3329694372.png" alt="Toaster-Success">
   </a>
-  
+  <br>
   <a href="https://github.com/mhadikz/Toaster">
     <img src="https://user-images.githubusercontent.com/22215824/88429690-4f161c80-ce0c-11ea-8ce7-64d46d6a7f6c.png" alt="Toaster-Warning">
   </a>
