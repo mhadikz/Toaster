@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="toaster">Toaster</string>
+    <string name="toaster_description">Hi guys, I\'m Hadi! :)</string>
+
+    <string name="info_title">Info Message</string>
+    <string name="success_title">Success Message</string>
+    <string name="warning_title">Warning Message</string>
+    <string name="error_title">Error Message</string>
+
+    <string name="info_description">This is a description text for testing - information toast</string>
+    <string name="success_description">This is a description text for testing - success toast</string>
+    <string name="warning_description">This is a description text for testing - warning toast</string>
+    <string name="error_description">This is a description text for testing - error toast</string>
+
+</resources>
