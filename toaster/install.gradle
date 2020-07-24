@@ -1,13 +1,13 @@
 apply plugin: 'com.github.dcendents.android-maven'
 
-group = 'android-libraries'
+group = 'com.github.mhadikz'
 
 install {
     repositories.mavenInstaller {
         pom {
             project {
                 packaging 'aar'
-                groupId 'android-libraries'
+                groupId 'com.github.mhadikz'
                 artifactId 'toaster'
 
                 name 'Toaster'
