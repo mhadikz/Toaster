@@ -24,8 +24,7 @@ install {
                 developers {
                     developer {
                         id 'mhadikz'
-                        name 'Mohammad Hadi Karamzadeh'
-                        email 'mhkaramzadeh7@gmail.com'
+                        name 'Hadi K-Z.'
                     }
                 }
 
